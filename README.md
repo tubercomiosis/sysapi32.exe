@@ -1,2 +1,6 @@
 # sysapi32.exe
-My new malware! It works only on Windows XP because it terminates lsass.exe. I'M NOT RESPONSIBLE FOR ANY DAMAGES.
+My new malware!
+> [!CAUTION]
+> I'M NOT RESPONSIBLE FOR ANY DAMAGE MADE USING THIS MALWARE! IF YOU ARE WILLING TO RUN IT ON PHYSICAL HARDWARE, PLEASE RUN THE VERSION WITH THE .GDIOnly BRANCH ONLY!!!
+> [!NOTE]
+> This will work only on Windows XP.
